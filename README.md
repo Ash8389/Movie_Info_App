@@ -1,4 +1,4 @@
-MovieRating
+MovieInfo
 
 📌 Overview
 
@@ -38,7 +38,7 @@ Material3 - UI components for modern design
 
 Clone the repository:
 
-git clone https://github.com/your-username/MovieRating.git
+git clone https://github.com/Ash8389/Movie_Info_App.git
 
 Open the project in Android Studio.
 
